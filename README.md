@@ -44,6 +44,7 @@ Finds the latest build among all jobs in `jobs`!
 
 # Tested Using
 - Windows 8.1 (I know; I'm sorry)
+- Git Bash 2.14.2.3
 - Node.js ~8.11.1
 - Terraform 0.11.13
 
