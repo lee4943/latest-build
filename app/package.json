@@ -1,0 +1,16 @@
+{
+  "name": "latest-build",
+  "version": "1.0.0",
+  "description": "Gives you the latest build!",
+  "main": "index.js",
+  "keywords": [
+    "latest",
+    "build"
+  ],
+  "author": "Jake Diamond",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
